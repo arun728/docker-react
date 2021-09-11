@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello there. React is awesome!
+          This is a sample React app developed using Docker containers on Nginx web server and deployed through AWS Elastic Bean Stalk!!!
         </p>
         <a
           className="App-link"
